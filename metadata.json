@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens AI",
+  "description": "AI-Powered News and Misinformation Verification Platform with Evidence-Based Research",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
